@@ -1,0 +1,3 @@
+[submodule "bbqribs"]
+	path = bbqribs
+	url = https://github.com/Akshay-Tarde/bbqribs.git
